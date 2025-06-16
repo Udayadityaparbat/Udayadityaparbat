@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udayaditya Parbat</h1>
 <h3 align="center">Passionate Learner Exploring Cybersecurity and Android Development</h3>
 
-- 🔭 I’m currently working on [ThatjaltaDiya](https://www.thatjaltadiya.co.in/)
+- 🔭 I’m currently working on AAI
 
 - 🌱 I’m currently learning **Cyber Security and Android Development**
 
